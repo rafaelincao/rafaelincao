@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I've visited over 45 countries**
 
-- 📝 Top Projects ** XRef - a Code Authenticity Detector **
+- 📝 Top Projects **XRef - a Code Authenticity Detector**
 - Link: https://bit.ly/CodeAuthenticityDetector
 <h3 align="left">Connect with me:</h3>
 <p align="left">
