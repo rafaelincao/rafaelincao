@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Incao</h1>
 <h3 align="center">A passionate Data Scientist from Brasil</h3>
 
-- 🔭 I’m currently working on [Source Code Stylometry and authorship attribution](Link Github)
+- 🔭 I’m currently working on [Source Code Stylometry and authorship attribution]
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rafaelincao-datascientist/](https://www.linkedin.com/in/rafaelincao-datascientist/)
 
